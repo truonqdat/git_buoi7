@@ -1,0 +1,11 @@
+# Bỏ qua tất cả file .log
+*.log
+
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Các mẫu khác có thể thêm:
+.env         # File environment
+.DS_Store    # File hệ thống macOS
+*.tmp        # File tạm
+/dist        # Thư mục build
